@@ -13,3 +13,18 @@
    4. 过一段时间巩固
    5. 再过一段时间再巩固
 
+### 栈和队列
+stack：先入后出 lifo，添加删除 O(1)，查询 O(n)
+empty peek pop push
+
+queue: 先入后出 lifi，添加删除 O(1)，查询 O(n)
+add remove element
+offer poll peek
+
+priority queue
+插入 O(1) 取出 O(logN) —— 按照元素优先级，底层可以用 heap
+
+
+
+
+
