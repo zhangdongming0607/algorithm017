@@ -8,13 +8,6 @@
 
 实现并查的思路
 
-* makeSet: 新建一个集合
-* unionSet：将两个元素所在的集合合并
-* find
-
-
-
-
-
-
-
+- makeSet: 新建一个集合
+- unionSet：将两个元素所在的集合合并
+- find
